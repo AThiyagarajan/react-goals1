@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-goals1/static/css/main.e18a66c1.css",
-    "main.js": "/react-goals1/static/js/main.d106c3ce.js",
+    "main.js": "/react-goals1/static/js/main.12027dba.js",
     "static/js/621.586990cf.chunk.js": "/react-goals1/static/js/621.586990cf.chunk.js",
     "static/js/129.8bd86de3.chunk.js": "/react-goals1/static/js/129.8bd86de3.chunk.js",
     "static/js/27.83f25772.chunk.js": "/react-goals1/static/js/27.83f25772.chunk.js",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.e18a66c1.css",
-    "static/js/main.d106c3ce.js"
+    "static/js/main.12027dba.js"
   ]
 }

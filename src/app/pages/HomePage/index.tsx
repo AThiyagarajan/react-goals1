@@ -156,7 +156,7 @@ const Wrapper = styled.div`
     gap: 10px;
   }
   .goal-rows-container {
-    margin: 20px;
+    margin: 20px 0;
     display: flex;
     flex-direction: column;
     border-top: 1px solid black;
